@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\91932\\OneDrive\\Desktop\\One Smarter\\Practice\\8july\\8july.csproj": {}
+    "C:\\Users\\91932\\OneDrive\\Desktop\\Full Stack .Net\\Practice\\8july\\8july.csproj": {}
   },
   "projects": {
-    "C:\\Users\\91932\\OneDrive\\Desktop\\One Smarter\\Practice\\8july\\8july.csproj": {
+    "C:\\Users\\91932\\OneDrive\\Desktop\\Full Stack .Net\\Practice\\8july\\8july.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\91932\\OneDrive\\Desktop\\One Smarter\\Practice\\8july\\8july.csproj",
+        "projectUniqueName": "C:\\Users\\91932\\OneDrive\\Desktop\\Full Stack .Net\\Practice\\8july\\8july.csproj",
         "projectName": "8july",
-        "projectPath": "C:\\Users\\91932\\OneDrive\\Desktop\\One Smarter\\Practice\\8july\\8july.csproj",
+        "projectPath": "C:\\Users\\91932\\OneDrive\\Desktop\\Full Stack .Net\\Practice\\8july\\8july.csproj",
         "packagesPath": "C:\\Users\\91932\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\91932\\OneDrive\\Desktop\\One Smarter\\Practice\\8july\\obj\\",
+        "outputPath": "C:\\Users\\91932\\OneDrive\\Desktop\\Full Stack .Net\\Practice\\8july\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91932\\AppData\\Roaming\\NuGet\\NuGet.Config"
