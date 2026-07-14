@@ -1,0 +1,15 @@
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\bin\Debug\net10.0\13july.exe
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\bin\Debug\net10.0\13july.deps.json
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\bin\Debug\net10.0\13july.runtimeconfig.json
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\bin\Debug\net10.0\13july.dll
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\bin\Debug\net10.0\13july.pdb
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\13july.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\13july.AssemblyInfoInputs.cache
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\13july.AssemblyInfo.cs
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\13july.csproj.CoreCompileInputs.cache
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\13july.sourcelink.json
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\13july.dll
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\refint\13july.dll
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\13july.pdb
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\13july.genruntimeconfig.cache
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Daily_Assignment\13july\obj\Debug\net10.0\ref\13july.dll
