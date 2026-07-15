@@ -1,0 +1,24 @@
+using System;
+
+namespace AutomobileVehicleManagementSystem
+{
+    public class Vehicle
+    {
+        public int VehicleId { get; set; }
+        public string VehicleName { get; set; }
+        public string VehicleType { get; set; }
+        public string Brand { get; set; }
+        public double Price { get; set; }
+        public int ManufacturingYear { get; set; }
+
+        public Vehicle(int id, string name, string type, string brand, double price, int year)
+        {
+            VehicleId = id;
+            VehicleName = name;
+            VehicleType = type;
+            Brand = brand;
+            Price = price;
+            ManufacturingYear = year;
+        }
+    }
+}
