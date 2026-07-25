@@ -1,0 +1,73 @@
+﻿@model List<_16July_Assign.Models.Employee>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Employee Management System</h1>
+    
+</div>
+<div>
+<table border="1" cellpadding="10">
+
+    <tr class="a">
+        <th>Employee_id</th>
+        <th>Employee_name</th>
+        <th>Department</th>
+        <th>Salary</th>
+        <th>Email</th>
+        
+    </tr>
+
+
+
+
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td><b>@item.Employee_id</b></td>
+            <td><b>@item.Employee_name</b></td>
+            <td><b>@item.Department</b></td>
+            <td><b>@item.Salary</b></td>
+            <td><b>@item.Email</b></td>
+        </tr>
+
+    }
+    </table>
+    </div>
+@* <table border="1" cellpadding="10">
+
+    <tr class="a">
+        <th>Department_name</th>
+        <th>Department_head</th>
+        <th>Head Contact</th>
+        <th>Head Email</th>
+
+
+    </tr>
+
+
+
+
+    @foreach (var it in Model)
+    {
+
+        <tr>
+            <td><b>@it.Department_name</b></td>
+            <td><b>@it.Department_head</b></td>
+            <td><b>@it.Hcontact</b></td>
+            <td><b>@it.Hemail</b></td>
+
+        </tr>
+
+    }
+</table>
+</div>
+
+
+ *@
+<a asp-controller="Home" asp-action="Department">
+    View Department Details
+</a>
