@@ -1,0 +1,43 @@
+﻿@model AutomobileManagementSystem.Models.Automobile
+
+<h2>Automobile Registration</h2>
+
+<form asp-action="Register" method="post">
+
+    <label asp-for="VehicleID"></label>
+    <input asp-for="VehicleID" />
+    <span asp-validation-for="VehicleID"></span>
+    <br />
+
+    <label asp-for="VehicleName"></label>
+    <input asp-for="VehicleName" />
+    <span asp-validation-for="VehicleName"></span>
+    <br />
+
+    <label asp-for="Brand"></label>
+    <input asp-for="Brand" />
+    <span asp-validation-for="Brand"></span>
+    <br />
+
+    <label asp-for="ModelYear"></label>
+    <input asp-for="ModelYear" />
+    <span asp-validation-for="ModelYear"></span>
+    <br />
+
+    <label asp-for="Price"></label>
+    <input asp-for="Price" />
+    <span asp-validation-for="Price"></span>
+    <br />
+
+    <label asp-for="FuelType"></label>
+    <input asp-for="FuelType" />
+    <span asp-validation-for="FuelType"></span>
+    <br /><br />
+
+    <button type="submit">Register Automobile</button>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

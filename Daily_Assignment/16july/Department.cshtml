@@ -1,0 +1,36 @@
+﻿@model List<_16July_Assign.Models.Department>
+
+@{
+}
+<table border="1" cellpadding="10">
+
+    <tr class="a">
+        <th>Department_name</th>
+        <th>Department_head</th>
+        <th>Head Contact</th>
+        <th>Head Email</th>
+
+
+    </tr>
+
+
+
+
+    @foreach (var it in Model)
+    {
+
+        <tr>
+            <td><b>@it.Department_name</b></td>
+            <td><b>@it.Department_head</b></td>
+            <td><b>@it.Hcontact</b></td>
+            <td><b>@it.Hemail</b></td>
+
+        </tr>
+
+    }
+</table>
+</div>
+
+
+ 
+

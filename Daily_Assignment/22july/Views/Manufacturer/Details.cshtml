@@ -1,0 +1,40 @@
+﻿@model AutomobileManagementSystem.Models.Manufacturer
+
+<h2>Automobile Registered Successfully</h2>
+
+<p><strong>Vehicle Name:</strong> @ViewBag.VehicleName</p>
+<p><strong>Brand:</strong> @ViewBag.Brand</p>
+
+<hr />
+
+<h3>Manufacturer Details</h3>
+
+<form asp-action="Details" method="post">
+
+    <label asp-for="ManufacturerName"></label>
+    <input asp-for="ManufacturerName" />
+    <span asp-validation-for="ManufacturerName"></span>
+    <br />
+
+    <label asp-for="Country"></label>
+    <input asp-for="Country" />
+    <span asp-validation-for="Country"></span>
+    <br />
+
+    <label asp-for="ContactNumber"></label>
+    <input asp-for="ContactNumber" />
+    <span asp-validation-for="ContactNumber"></span>
+    <br />
+
+    <label asp-for="EmailAddress"></label>
+    <input asp-for="EmailAddress" />
+    <span asp-validation-for="EmailAddress"></span>
+    <br /><br />
+
+    <button type="submit">Submit Manufacturer</button>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
